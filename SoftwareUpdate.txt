@@ -1,1 +1,1 @@
-ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
