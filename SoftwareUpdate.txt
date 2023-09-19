@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
