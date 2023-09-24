@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Retry once for Docker CI failures (#8164)
