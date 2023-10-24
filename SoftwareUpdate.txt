@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Add Amazon Sagemaker Docs integrations page (#7293)
