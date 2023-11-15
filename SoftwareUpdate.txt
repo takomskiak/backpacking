@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Add docs links to all dataset YAMLs (#7360)
