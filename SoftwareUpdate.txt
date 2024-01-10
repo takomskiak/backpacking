@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Update pyproject.toml and Docs (#7274)
