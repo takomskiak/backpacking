@@ -1,1 +1,1 @@
-Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
+Fix RTDETR generate anchor grid out of boundary (#7247)
