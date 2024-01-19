@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
