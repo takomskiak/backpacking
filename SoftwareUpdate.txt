@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Add C++ Classify inference example (#6868)
