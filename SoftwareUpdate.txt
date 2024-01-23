@@ -1,1 +1,1 @@
-Update pyproject.toml [tool.pytest.ini_options] (#9259)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
