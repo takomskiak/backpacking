@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Update pyproject.toml and Docs (#7274)
