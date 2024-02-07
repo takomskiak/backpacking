@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
