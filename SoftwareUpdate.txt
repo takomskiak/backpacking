@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+New HUB Cloud Training docs page (#8174)
