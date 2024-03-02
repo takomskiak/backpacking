@@ -1,1 +1,1 @@
-Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
