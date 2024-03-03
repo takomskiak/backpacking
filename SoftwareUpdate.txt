@@ -1,1 +1,1 @@
-ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
+Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
