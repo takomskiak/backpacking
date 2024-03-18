@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
