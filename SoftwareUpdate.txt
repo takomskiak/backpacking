@@ -1,1 +1,1 @@
-ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
