@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
