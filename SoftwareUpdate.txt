@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Update IoU capitalization (#8604)
