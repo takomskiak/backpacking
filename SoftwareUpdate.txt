@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
