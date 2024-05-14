@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Fix PIL show() and save() (#8202)
